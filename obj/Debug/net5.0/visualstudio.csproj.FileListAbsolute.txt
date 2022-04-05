@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\visualstudio\bin\Debug\net5.0\visualstudio.exe
+C:\Users\User\Desktop\visualstudio\bin\Debug\net5.0\visualstudio.deps.json
+C:\Users\User\Desktop\visualstudio\bin\Debug\net5.0\visualstudio.runtimeconfig.json
+C:\Users\User\Desktop\visualstudio\bin\Debug\net5.0\visualstudio.runtimeconfig.dev.json
+C:\Users\User\Desktop\visualstudio\bin\Debug\net5.0\visualstudio.dll
+C:\Users\User\Desktop\visualstudio\bin\Debug\net5.0\visualstudio.pdb
+C:\Users\User\Desktop\visualstudio\obj\Debug\net5.0\visualstudio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\visualstudio\obj\Debug\net5.0\visualstudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\visualstudio\obj\Debug\net5.0\visualstudio.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\visualstudio\obj\Debug\net5.0\visualstudio.AssemblyInfo.cs
+C:\Users\User\Desktop\visualstudio\obj\Debug\net5.0\visualstudio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\visualstudio\obj\Debug\net5.0\visualstudio.dll
+C:\Users\User\Desktop\visualstudio\obj\Debug\net5.0\refint\visualstudio.dll
+C:\Users\User\Desktop\visualstudio\obj\Debug\net5.0\visualstudio.pdb
+C:\Users\User\Desktop\visualstudio\obj\Debug\net5.0\visualstudio.genruntimeconfig.cache
+C:\Users\User\Desktop\visualstudio\obj\Debug\net5.0\ref\visualstudio.dll
